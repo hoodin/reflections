@@ -1,0 +1,39 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    because in the new file something added so that was the different betweeen
+    two file and it could be so the difference of two file showed the bug
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    if somewhere in file i did a mistake i could undo the file changes
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+   pros are that whenever programmer feels to commit it can be done or somethimes
+   it could be large commit or it could be too small and the cons is confusing
+   when to commit.
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    because for example adding some feature may changes multiple files nad commit
+    them toghether later we could easyli see that feature and modify it.
+
+How can you use the commands git log and git diff to view the history of files?
+
+    with lof command i can see the all changes and the messeage of them and with
+    the id of commit i can compare hem and see the details changes of every commit
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    well if something were wrong i can easyli find the the problem by checkout 
+    the commits
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    for all android project
