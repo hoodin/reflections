@@ -11,10 +11,16 @@ staging area not all files
 How can you use the staging area to make sure you have one commit per logical
 change?
 
+i don't know
+
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
+situations that i wanna try something new and something extra fetaure i do that in
+branches and i'm sure that my master code will be clean and working
+
 How do the diagrams help you visualize the branch structure?
+it really help to keep track of branches.
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?

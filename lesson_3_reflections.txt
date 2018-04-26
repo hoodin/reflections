@@ -14,7 +14,10 @@ automatically stay up-to-date with your remote repository?
 Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
 
-    Fill in your answer here
+    fork means get copy of a repository to my gihub account and clone means to get
+    a repository to my local computer nad branch means to when we don't wanna
+    conflict the master files and try something new we make a branch and work
+    on it and if it works we merge it with master brwnch and push it.
 
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
